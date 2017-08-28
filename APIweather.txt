@@ -1,0 +1,2 @@
+open weather key 18c78897be12be98324d93aa23ca7bda
+http://api.openweathermap.org/data/2.5/forecast/city?id=524901&APPID={APIKEY}
